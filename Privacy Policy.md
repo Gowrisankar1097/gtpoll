@@ -1,5 +1,5 @@
 Privacy Policy
-This privacy policy applies to the GT POLL app (hereby referred to as "Application") for mobile devices that was created by Shri S (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the Polling Booth app (hereby referred to as "Application") for mobile devices that was created by Shrikanth (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 
 Information Collection and Use
@@ -16,7 +16,7 @@ The Application does not gather precise information about the location of your m
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Google sign in and Firebase OTP. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 
 Third Party Access
@@ -56,12 +56,10 @@ Changes
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 
-This privacy policy is effective as of 2024-06-18
-
-
 Your Consent
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
 
 Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at shrika0010@gmail.com.
+
